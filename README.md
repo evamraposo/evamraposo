@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, C++, HTML, CSS and Javascript
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on all projects that I can
-- 📫 How to reach me <a href="https://www.linkedin.com/in/evamraposo">Eva Raposo on Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/evamraposo">Eva Raposo on Linkedin</a>
 
 <!---
 evamraposo/evamraposo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
