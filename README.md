@@ -1,6 +1,6 @@
-<h1 style="font-size:2px;" > <strong> Hello! Welcome to Eva's Github! </strong> </h1>
-<br>
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python
+<strong> Hello! Welcome to Eva's Github! </strong>
+- 🌱 I’m currently learning <strong>HTML, CSS, Javascript and Python</strong>
+- 🌻 I’m working with Help Desk and studying Information Systems
 - 💞️ I’m looking to collaborate on all projects that I can
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/evamraposo">Eva Raposo on Linkedin</a>
 
