@@ -1,4 +1,4 @@
-<h1> <strong> Hello! Welcome to my Github! <\strong> <\h1>
+<h1> <strong> Hello! Welcome to my Github! </strong> </h1>
 - 👀 I’m interested in Python, C++, HTML, CSS and Javascript
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on all projects that I can
