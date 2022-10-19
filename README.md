@@ -1,6 +1,6 @@
-<h1> <strong> Hello! Welcome to my Github! </strong> </h1>
-- 👀 I’m interested in Python, C++, HTML, CSS and Javascript
-- 🌱 I’m currently learning HTML, CSS and Javascript
+<h1> <strong> Hello! Welcome to Eva's Github! </strong> </h1>
+<br>
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 💞️ I’m looking to collaborate on all projects that I can
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/evamraposo">Eva Raposo on Linkedin</a>
 
