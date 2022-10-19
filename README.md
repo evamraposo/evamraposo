@@ -1,4 +1,4 @@
-<h1> <strong> Hello! Welcome to Eva's Github! </strong> </h1>
+<h1 style ="font-size:2px" > <strong> Hello! Welcome to Eva's Github! </strong> </h1>
 <br>
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 💞️ I’m looking to collaborate on all projects that I can
